@@ -57,7 +57,9 @@ Key focus areas include:
 
 ## 👨‍💻 Contributors
 - **Nitin Kumar** – Firmware Developer & Hardware Integrator  
-- Research Team, IIT Jammu  
+- **Chetan Singh Adhikari** – Drone Design & Structural Analysis  
+- Research Team, IIT Jammu
+
 
 ---
 
